@@ -3,7 +3,7 @@
 | Field | Value |
 | --- | --- |
 | Status | **public student hands-on** |
-| Org | `tekouin-wescale` |
+| Org | `tekouin` |
 | Topic | Git forking workflow curriculum |
 | Docs | [`docs/STATUS.md`](docs/STATUS.md) |
 
